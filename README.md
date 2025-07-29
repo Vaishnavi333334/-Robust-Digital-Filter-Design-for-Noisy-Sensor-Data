@@ -48,7 +48,7 @@ git clone [ https://github.com/Vaishnavi333334/-Robust-Digital-Filter-Design-for
 
 RESULTS & VISUALIZATIONS:
 FIG 1- CLEAN ENCODER SIGNAL:
-<img width="1672" height="903" alt="Image" src="https://github.com/user-attachments/assets/613e1f22-9680-434e-b37f-1ee96b21efc1" />
+![Clean Encoder Signal](figs/https://github.com/Vaishnavi333334/-Robust-Digital-Filter-Design-for-Noisy-Sensor-Data/blob/68e14d7479e3a82f712f848936e0f284673c13de/Fig(1)CleanEncoderSignal.png?raw=true)
 Clean Encoder Signal:Shows the ideal, noiseless sensor output. 
 
 FIG 2- NOISY ENCODER SIGNALS:
